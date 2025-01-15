@@ -21,7 +21,7 @@ This project is a HWID (Hardware ID) changing tool designed to alter various har
 1. Clone the repository or download the zip file:
 
    ```sh
-   git clone https://github.com/Ilyes009
+   https://github.com/Ilyes009/Premium-Hwid-Spoofer
    ```
 
 2. Open the project in a C# development environment such as Visual Studio.
